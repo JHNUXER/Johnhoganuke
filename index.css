@@ -1,0 +1,15 @@
+body {
+  font-family: "Arial";
+}
+
+.site-title-section {
+  text-align: center;
+}
+.left-sidebar {
+}
+.right-sidebar {
+  width:20%;
+}
+.left-sidebar {
+  width:18%;
+}
